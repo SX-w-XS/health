@@ -1,0 +1,3132 @@
+{
+  "questionnaires": [
+    {
+      "id": 9,
+      "questionnaire_type": "心理诊断",
+      "questionnaire_name": "SCL_90_1",
+      "questionnaire_path": "upload/questionnaire/20231003/",
+      "questionnaire_file_name": "结构化数据_20231003232612_10心理健康.xlsx",
+      "questions": [
+        {
+          "question_order_id": 1,
+          "question_id": "q1001",
+          "question_text": "头痛",
+          "question_type": "radio",
+          "answers": [
+            {
+              "answer_text": "从无",
+              "answer_value": 1,
+              "order_id": 1
+            },
+            {
+              "answer_text": "很轻",
+              "answer_value": 2,
+              "order_id": 2
+            },
+            {
+              "answer_text": "中等",
+              "answer_value": 3,
+              "order_id": 3
+            },
+            {
+              "answer_text": "偏重",
+              "answer_value": 4,
+              "order_id": 4
+            },
+            {
+              "answer_text": "严重",
+              "answer_value": 5,
+              "order_id": 5
+            }
+          ]
+        },
+        {
+          "question_order_id": 2,
+          "question_id": "q1002",
+          "question_text": "神经过敏，心中不踏实",
+          "question_type": "radio",
+          "answers": [
+            {
+              "answer_text": "从无",
+              "answer_value": 1,
+              "order_id": 1
+            },
+            {
+              "answer_text": "很轻",
+              "answer_value": 2,
+              "order_id": 2
+            },
+            {
+              "answer_text": "中等",
+              "answer_value": 3,
+              "order_id": 3
+            },
+            {
+              "answer_text": "偏重",
+              "answer_value": 4,
+              "order_id": 4
+            },
+            {
+              "answer_text": "严重",
+              "answer_value": 5,
+              "order_id": 5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "questionnaire_type": "心理诊断2",
+      "questionnaire_name": "SCL_90",
+      "questionnaire_path": "upload/questionnaire/20231003/",
+      "questionnaire_file_name": "结构化数据_20231003232612_10心理健康.xlsx",
+      "questions": [
+        {
+          "question_order_id": 1,
+          "question_id": "q1001",
+          "question_text": "头痛",
+          "question_type": "radio",
+          "answers": [
+            {
+              "answer_text": "从无",
+              "answer_value": 1,
+              "order_id": 1
+            },
+            {
+              "answer_text": "很轻",
+              "answer_value": 2,
+              "order_id": 2
+            },
+            {
+              "answer_text": "中等",
+              "answer_value": 3,
+              "order_id": 3
+            },
+            {
+              "answer_text": "偏重",
+              "answer_value": 4,
+              "order_id": 4
+            },
+            {
+              "answer_text": "严重",
+              "answer_value": 5,
+              "order_id": 5
+            }
+          ]
+        },
+        {
+          "question_order_id": 2,
+          "question_id": "q1002",
+          "question_text": "神经过敏，心中不踏实",
+          "question_type": "radio",
+          "answers": [
+            {
+              "answer_text": "从无",
+              "answer_value": 1,
+              "order_id": 1
+            },
+            {
+              "answer_text": "很轻",
+              "answer_value": 2,
+              "order_id": 2
+            },
+            {
+              "answer_text": "中等",
+              "answer_value": 3,
+              "order_id": 3
+            },
+            {
+              "answer_text": "偏重",
+              "answer_value": 4,
+              "order_id": 4
+            },
+            {
+              "answer_text": "严重",
+              "answer_value": 5,
+              "order_id": 5
+            }
+          ]
+        },
+        {
+          "question_order_id": 3,
+          "question_id": "q1003",
+          "question_text": "头脑中有不必要的想法或字句盘旋",
+          "question_type": "radio",
+          "answers": [
+            {
+              "answer_text": "从无",
+              "answer_value": 1,
+              "order_id": 1
+            },
+            {
+              "answer_text": "很轻",
+              "answer_value": 2,
+              "order_id": 2
+            },
+            {
+              "answer_text": "中等",
+              "answer_value": 3,
+              "order_id": 3
+            },
+            {
+              "answer_text": "偏重",
+              "answer_value": 4,
+              "order_id": 4
+            },
+            {
+              "answer_text": "严重",
+              "answer_value": 5,
+              "order_id": 5
+            }
+          ]
+        },
+        {
+          "question_order_id": 4,
+          "question_id": "q1004",
+          "question_text": "头昏或昏倒",
+          "question_type": "radio",
+          "answers": [
+            {
+              "answer_text": "从无",
+              "answer_value": 1,
+              "order_id": 1
+            },
+            {
+              "answer_text": "很轻",
+              "answer_value": 2,
+              "order_id": 2
+            },
+            {
+              "answer_text": "中等",
+              "answer_value": 3,
+              "order_id": 3
+            },
+            {
+              "answer_text": "偏重",
+              "answer_value": 4,
+              "order_id": 4
+            },
+            {
+              "answer_text": "严重",
+              "answer_value": 5,
+              "order_id": 5
+            }
+          ]
+        },
+        {
+          "question_order_id": 5,
+          "question_id": "q1005",
+          "question_text": "对异性的兴趣减退",
+          "question_type": "radio",
+          "answers": [
+            {
+              "answer_text": "从无",
+              "answer_value": 1,
+              "order_id": 1
+            },
+            {
+              "answer_text": "很轻",
+              "answer_value": 2,
+              "order_id": 2
+            },
+            {
+              "answer_text": "中等",
+              "answer_value": 3,
+              "order_id": 3
+            },
+            {
+              "answer_text": "偏重",
+              "answer_value": 4,
+              "order_id": 4
+            },
+            {
+              "answer_text": "严重",
+              "answer_value": 5,
+              "order_id": 5
+            }
+          ]
+        },
+        {
+          "question_order_id": 6,
+          "question_id": "q1006",
+          "question_text": "对旁人责备求全",
+          "question_type": "radio",
+          "answers": [
+            {
+              "answer_text": "从无",
+              "answer_value": 1,
+              "order_id": 1
+            },
+            {
+              "answer_text": "很轻",
+              "answer_value": 2,
+              "order_id": 2
+            },
+            {
+              "answer_text": "中等",
+              "answer_value": 3,
+              "order_id": 3
+            },
+            {
+              "answer_text": "偏重",
+              "answer_value": 4,
+              "order_id": 4
+            },
+            {
+              "answer_text": "严重",
+              "answer_value": 5,
+              "order_id": 5
+            }
+          ]
+        },
+        {
+          "question_order_id": 7,
+          "question_id": "q1007",
+          "question_text": "感到被人能控制你的思想",
+          "question_type": "radio",
+          "answers": [
+            {
+              "answer_text": "从无",
+              "answer_value": 1,
+              "order_id": 1
+            },
+            {
+              "answer_text": "很轻",
+              "answer_value": 2,
+              "order_id": 2
+            },
+            {
+              "answer_text": "中等",
+              "answer_value": 3,
+              "order_id": 3
+            },
+            {
+              "answer_text": "偏重",
+              "answer_value": 4,
+              "order_id": 4
+            },
+            {
+              "answer_text": "严重",
+              "answer_value": 5,
+              "order_id": 5
+            }
+          ]
+        },
+        {
+          "question_order_id": 8,
+          "question_id": "q1008",
+          "question_text": "责怪被人制造麻烦",
+          "question_type": "radio",
+          "answers": [
+            {
+              "answer_text": "从无",
+              "answer_value": 1,
+              "order_id": 1
+            },
+            {
+              "answer_text": "很轻",
+              "answer_value": 2,
+              "order_id": 2
+            },
+            {
+              "answer_text": "中等",
+              "answer_value": 3,
+              "order_id": 3
+            },
+            {
+              "answer_text": "偏重",
+              "answer_value": 4,
+              "order_id": 4
+            },
+            {
+              "answer_text": "严重",
+              "answer_value": 5,
+              "order_id": 5
+            }
+          ]
+        },
+        {
+          "question_order_id": 9,
+          "question_id": "q1009",
+          "question_text": "忘性大",
+          "question_type": "radio",
+          "answers": [
+            {
+              "answer_text": "从无",
+              "answer_value": 1,
+              "order_id": 1
+            },
+            {
+              "answer_text": "很轻",
+              "answer_value": 2,
+              "order_id": 2
+            },
+            {
+              "answer_text": "中等",
+              "answer_value": 3,
+              "order_id": 3
+            },
+            {
+              "answer_text": "偏重",
+              "answer_value": 4,
+              "order_id": 4
+            },
+            {
+              "answer_text": "严重",
+              "answer_value": 5,
+              "order_id": 5
+            }
+          ]
+        },
+        {
+          "question_order_id": 10,
+          "question_id": "q1010",
+          "question_text": "担心自己的衣饰是否整齐及仪态是否端正",
+          "question_type": "radio",
+          "answers": [
+            {
+              "answer_text": "从无",
+              "answer_value": 1,
+              "order_id": 1
+            },
+            {
+              "answer_text": "很轻",
+              "answer_value": 2,
+              "order_id": 2
+            },
+            {
+              "answer_text": "中等",
+              "answer_value": 3,
+              "order_id": 3
+            },
+            {
+              "answer_text": "偏重",
+              "answer_value": 4,
+              "order_id": 4
+            },
+            {
+              "answer_text": "严重",
+              "answer_value": 5,
+              "order_id": 5
+            }
+          ]
+        },
+        {
+          "question_order_id": 11,
+          "question_id": "q1011",
+          "question_text": "容易烦恼和激动",
+          "question_type": "radio",
+          "answers": [
+            {
+              "answer_text": "从无",
+              "answer_value": 1,
+              "order_id": 1
+            },
+            {
+              "answer_text": "很轻",
+              "answer_value": 2,
+              "order_id": 2
+            },
+            {
+              "answer_text": "中等",
+              "answer_value": 3,
+              "order_id": 3
+            },
+            {
+              "answer_text": "偏重",
+              "answer_value": 4,
+              "order_id": 4
+            },
+            {
+              "answer_text": "严重",
+              "answer_value": 5,
+              "order_id": 5
+            }
+          ]
+        },
+        {
+          "question_order_id": 12,
+          "question_id": "q1012",
+          "question_text": "胸痛",
+          "question_type": "radio",
+          "answers": [
+            {
+              "answer_text": "从无",
+              "answer_value": 1,
+              "order_id": 1
+            },
+            {
+              "answer_text": "很轻",
+              "answer_value": 2,
+              "order_id": 2
+            },
+            {
+              "answer_text": "中等",
+              "answer_value": 3,
+              "order_id": 3
+            },
+            {
+              "answer_text": "偏重",
+              "answer_value": 4,
+              "order_id": 4
+            },
+            {
+              "answer_text": "严重",
+              "answer_value": 5,
+              "order_id": 5
+            }
+          ]
+        },
+        {
+          "question_order_id": 13,
+          "question_id": "q1013",
+          "question_text": "害怕空旷的场所或街道",
+          "question_type": "radio",
+          "answers": [
+            {
+              "answer_text": "从无",
+              "answer_value": 1,
+              "order_id": 1
+            },
+            {
+              "answer_text": "很轻",
+              "answer_value": 2,
+              "order_id": 2
+            },
+            {
+              "answer_text": "中等",
+              "answer_value": 3,
+              "order_id": 3
+            },
+            {
+              "answer_text": "偏重",
+              "answer_value": 4,
+              "order_id": 4
+            },
+            {
+              "answer_text": "严重",
+              "answer_value": 5,
+              "order_id": 5
+            }
+          ]
+        },
+        {
+          "question_order_id": 14,
+          "question_id": "q1014",
+          "question_text": "感到自己的精力下降，活动减慢",
+          "question_type": "radio",
+          "answers": [
+            {
+              "answer_text": "从无",
+              "answer_value": 1,
+              "order_id": 1
+            },
+            {
+              "answer_text": "很轻",
+              "answer_value": 2,
+              "order_id": 2
+            },
+            {
+              "answer_text": "中等",
+              "answer_value": 3,
+              "order_id": 3
+            },
+            {
+              "answer_text": "偏重",
+              "answer_value": 4,
+              "order_id": 4
+            },
+            {
+              "answer_text": "严重",
+              "answer_value": 5,
+              "order_id": 5
+            }
+          ]
+        },
+        {
+          "question_order_id": 15,
+          "question_id": "q1015",
+          "question_text": "想结束自己的生命",
+          "question_type": "radio",
+          "answers": [
+            {
+              "answer_text": "从无",
+              "answer_value": 1,
+              "order_id": 1
+            },
+            {
+              "answer_text": "很轻",
+              "answer_value": 2,
+              "order_id": 2
+            },
+            {
+              "answer_text": "中等",
+              "answer_value": 3,
+              "order_id": 3
+            },
+            {
+              "answer_text": "偏重",
+              "answer_value": 4,
+              "order_id": 4
+            },
+            {
+              "answer_text": "严重",
+              "answer_value": 5,
+              "order_id": 5
+            }
+          ]
+        },
+        {
+          "question_order_id": 16,
+          "question_id": "q1016",
+          "question_text": "听到旁人听不到的声音",
+          "question_type": "radio",
+          "answers": [
+            {
+              "answer_text": "从无",
+              "answer_value": 1,
+              "order_id": 1
+            },
+            {
+              "answer_text": "很轻",
+              "answer_value": 2,
+              "order_id": 2
+            },
+            {
+              "answer_text": "中等",
+              "answer_value": 3,
+              "order_id": 3
+            },
+            {
+              "answer_text": "偏重",
+              "answer_value": 4,
+              "order_id": 4
+            },
+            {
+              "answer_text": "严重",
+              "answer_value": 5,
+              "order_id": 5
+            }
+          ]
+        },
+        {
+          "question_order_id": 17,
+          "question_id": "q1017",
+          "question_text": "发抖",
+          "question_type": "radio",
+          "answers": [
+            {
+              "answer_text": "从无",
+              "answer_value": 1,
+              "order_id": 1
+            },
+            {
+              "answer_text": "很轻",
+              "answer_value": 2,
+              "order_id": 2
+            },
+            {
+              "answer_text": "中等",
+              "answer_value": 3,
+              "order_id": 3
+            },
+            {
+              "answer_text": "偏重",
+              "answer_value": 4,
+              "order_id": 4
+            },
+            {
+              "answer_text": "严重",
+              "answer_value": 5,
+              "order_id": 5
+            }
+          ]
+        },
+        {
+          "question_order_id": 18,
+          "question_id": "q1018",
+          "question_text": "感到大多数人都不可信任",
+          "question_type": "radio",
+          "answers": [
+            {
+              "answer_text": "从无",
+              "answer_value": 1,
+              "order_id": 1
+            },
+            {
+              "answer_text": "很轻",
+              "answer_value": 2,
+              "order_id": 2
+            },
+            {
+              "answer_text": "中等",
+              "answer_value": 3,
+              "order_id": 3
+            },
+            {
+              "answer_text": "偏重",
+              "answer_value": 4,
+              "order_id": 4
+            },
+            {
+              "answer_text": "严重",
+              "answer_value": 5,
+              "order_id": 5
+            }
+          ]
+        },
+        {
+          "question_order_id": 19,
+          "question_id": "q1019",
+          "question_text": "胃口不好",
+          "question_type": "radio",
+          "answers": [
+            {
+              "answer_text": "从无",
+              "answer_value": 1,
+              "order_id": 1
+            },
+            {
+              "answer_text": "很轻",
+              "answer_value": 2,
+              "order_id": 2
+            },
+            {
+              "answer_text": "中等",
+              "answer_value": 3,
+              "order_id": 3
+            },
+            {
+              "answer_text": "偏重",
+              "answer_value": 4,
+              "order_id": 4
+            },
+            {
+              "answer_text": "严重",
+              "answer_value": 5,
+              "order_id": 5
+            }
+          ]
+        },
+        {
+          "question_order_id": 20,
+          "question_id": "q1020",
+          "question_text": "容易哭泣",
+          "question_type": "radio",
+          "answers": [
+            {
+              "answer_text": "从无",
+              "answer_value": 1,
+              "order_id": 1
+            },
+            {
+              "answer_text": "很轻",
+              "answer_value": 2,
+              "order_id": 2
+            },
+            {
+              "answer_text": "中等",
+              "answer_value": 3,
+              "order_id": 3
+            },
+            {
+              "answer_text": "偏重",
+              "answer_value": 4,
+              "order_id": 4
+            },
+            {
+              "answer_text": "严重",
+              "answer_value": 5,
+              "order_id": 5
+            }
+          ]
+        },
+        {
+          "question_order_id": 21,
+          "question_id": "q1021",
+          "question_text": "同异性相处时感到害羞和不自在",
+          "question_type": "radio",
+          "answers": [
+            {
+              "answer_text": "从无",
+              "answer_value": 1,
+              "order_id": 1
+            },
+            {
+              "answer_text": "很轻",
+              "answer_value": 2,
+              "order_id": 2
+            },
+            {
+              "answer_text": "中等",
+              "answer_value": 3,
+              "order_id": 3
+            },
+            {
+              "answer_text": "偏重",
+              "answer_value": 4,
+              "order_id": 4
+            },
+            {
+              "answer_text": "严重",
+              "answer_value": 5,
+              "order_id": 5
+            }
+          ]
+        },
+        {
+          "question_order_id": 22,
+          "question_id": "q1022",
+          "question_text": "感到受骗，中了圈套或有人想抓住您",
+          "question_type": "radio",
+          "answers": [
+            {
+              "answer_text": "从无",
+              "answer_value": 1,
+              "order_id": 1
+            },
+            {
+              "answer_text": "很轻",
+              "answer_value": 2,
+              "order_id": 2
+            },
+            {
+              "answer_text": "中等",
+              "answer_value": 3,
+              "order_id": 3
+            },
+            {
+              "answer_text": "偏重",
+              "answer_value": 4,
+              "order_id": 4
+            },
+            {
+              "answer_text": "严重",
+              "answer_value": 5,
+              "order_id": 5
+            }
+          ]
+        },
+        {
+          "question_order_id": 23,
+          "question_id": "q1023",
+          "question_text": "无缘无故地突然感到害怕",
+          "question_type": "radio",
+          "answers": [
+            {
+              "answer_text": "从无",
+              "answer_value": 1,
+              "order_id": 1
+            },
+            {
+              "answer_text": "很轻",
+              "answer_value": 2,
+              "order_id": 2
+            },
+            {
+              "answer_text": "中等",
+              "answer_value": 3,
+              "order_id": 3
+            },
+            {
+              "answer_text": "偏重",
+              "answer_value": 4,
+              "order_id": 4
+            },
+            {
+              "answer_text": "严重",
+              "answer_value": 5,
+              "order_id": 5
+            }
+          ]
+        },
+        {
+          "question_order_id": 24,
+          "question_id": "q1024",
+          "question_text": "自己不能控制地大发脾气",
+          "question_type": "radio",
+          "answers": [
+            {
+              "answer_text": "从无",
+              "answer_value": 1,
+              "order_id": 1
+            },
+            {
+              "answer_text": "很轻",
+              "answer_value": 2,
+              "order_id": 2
+            },
+            {
+              "answer_text": "中等",
+              "answer_value": 3,
+              "order_id": 3
+            },
+            {
+              "answer_text": "偏重",
+              "answer_value": 4,
+              "order_id": 4
+            },
+            {
+              "answer_text": "严重",
+              "answer_value": 5,
+              "order_id": 5
+            }
+          ]
+        },
+        {
+          "question_order_id": 25,
+          "question_id": "q1025",
+          "question_text": "怕单独出门",
+          "question_type": "radio",
+          "answers": [
+            {
+              "answer_text": "从无",
+              "answer_value": 1,
+              "order_id": 1
+            },
+            {
+              "answer_text": "很轻",
+              "answer_value": 2,
+              "order_id": 2
+            },
+            {
+              "answer_text": "中等",
+              "answer_value": 3,
+              "order_id": 3
+            },
+            {
+              "answer_text": "偏重",
+              "answer_value": 4,
+              "order_id": 4
+            },
+            {
+              "answer_text": "严重",
+              "answer_value": 5,
+              "order_id": 5
+            }
+          ]
+        },
+        {
+          "question_order_id": 26,
+          "question_id": "q1026",
+          "question_text": "经常责怪自己",
+          "question_type": "radio",
+          "answers": [
+            {
+              "answer_text": "从无",
+              "answer_value": 1,
+              "order_id": 1
+            },
+            {
+              "answer_text": "很轻",
+              "answer_value": 2,
+              "order_id": 2
+            },
+            {
+              "answer_text": "中等",
+              "answer_value": 3,
+              "order_id": 3
+            },
+            {
+              "answer_text": "偏重",
+              "answer_value": 4,
+              "order_id": 4
+            },
+            {
+              "answer_text": "严重",
+              "answer_value": 5,
+              "order_id": 5
+            }
+          ]
+        },
+        {
+          "question_order_id": 27,
+          "question_id": "q1027",
+          "question_text": "腰痛",
+          "question_type": "radio",
+          "answers": [
+            {
+              "answer_text": "从无",
+              "answer_value": 1,
+              "order_id": 1
+            },
+            {
+              "answer_text": "很轻",
+              "answer_value": 2,
+              "order_id": 2
+            },
+            {
+              "answer_text": "中等",
+              "answer_value": 3,
+              "order_id": 3
+            },
+            {
+              "answer_text": "偏重",
+              "answer_value": 4,
+              "order_id": 4
+            },
+            {
+              "answer_text": "严重",
+              "answer_value": 5,
+              "order_id": 5
+            }
+          ]
+        },
+        {
+          "question_order_id": 28,
+          "question_id": "q1028",
+          "question_text": "感到难以完成任务",
+          "question_type": "radio",
+          "answers": [
+            {
+              "answer_text": "从无",
+              "answer_value": 1,
+              "order_id": 1
+            },
+            {
+              "answer_text": "很轻",
+              "answer_value": 2,
+              "order_id": 2
+            },
+            {
+              "answer_text": "中等",
+              "answer_value": 3,
+              "order_id": 3
+            },
+            {
+              "answer_text": "偏重",
+              "answer_value": 4,
+              "order_id": 4
+            },
+            {
+              "answer_text": "严重",
+              "answer_value": 5,
+              "order_id": 5
+            }
+          ]
+        },
+        {
+          "question_order_id": 29,
+          "question_id": "q1029",
+          "question_text": "感到孤独",
+          "question_type": "radio",
+          "answers": [
+            {
+              "answer_text": "从无",
+              "answer_value": 1,
+              "order_id": 1
+            },
+            {
+              "answer_text": "很轻",
+              "answer_value": 2,
+              "order_id": 2
+            },
+            {
+              "answer_text": "中等",
+              "answer_value": 3,
+              "order_id": 3
+            },
+            {
+              "answer_text": "偏重",
+              "answer_value": 4,
+              "order_id": 4
+            },
+            {
+              "answer_text": "严重",
+              "answer_value": 5,
+              "order_id": 5
+            }
+          ]
+        },
+        {
+          "question_order_id": 30,
+          "question_id": "q1030",
+          "question_text": "感到苦闷",
+          "question_type": "radio",
+          "answers": [
+            {
+              "answer_text": "从无",
+              "answer_value": 1,
+              "order_id": 1
+            },
+            {
+              "answer_text": "很轻",
+              "answer_value": 2,
+              "order_id": 2
+            },
+            {
+              "answer_text": "中等",
+              "answer_value": 3,
+              "order_id": 3
+            },
+            {
+              "answer_text": "偏重",
+              "answer_value": 4,
+              "order_id": 4
+            },
+            {
+              "answer_text": "严重",
+              "answer_value": 5,
+              "order_id": 5
+            }
+          ]
+        },
+        {
+          "question_order_id": 31,
+          "question_id": "q1031",
+          "question_text": "过分担忧",
+          "question_type": "radio",
+          "answers": [
+            {
+              "answer_text": "从无",
+              "answer_value": 1,
+              "order_id": 1
+            },
+            {
+              "answer_text": "很轻",
+              "answer_value": 2,
+              "order_id": 2
+            },
+            {
+              "answer_text": "中等",
+              "answer_value": 3,
+              "order_id": 3
+            },
+            {
+              "answer_text": "偏重",
+              "answer_value": 4,
+              "order_id": 4
+            },
+            {
+              "answer_text": "严重",
+              "answer_value": 5,
+              "order_id": 5
+            }
+          ]
+        },
+        {
+          "question_order_id": 32,
+          "question_id": "q1032",
+          "question_text": "对事物不感兴趣",
+          "question_type": "radio",
+          "answers": [
+            {
+              "answer_text": "从无",
+              "answer_value": 1,
+              "order_id": 1
+            },
+            {
+              "answer_text": "很轻",
+              "answer_value": 2,
+              "order_id": 2
+            },
+            {
+              "answer_text": "中等",
+              "answer_value": 3,
+              "order_id": 3
+            },
+            {
+              "answer_text": "偏重",
+              "answer_value": 4,
+              "order_id": 4
+            },
+            {
+              "answer_text": "严重",
+              "answer_value": 5,
+              "order_id": 5
+            }
+          ]
+        },
+        {
+          "question_order_id": 33,
+          "question_id": "q1033",
+          "question_text": "感到害怕",
+          "question_type": "radio",
+          "answers": [
+            {
+              "answer_text": "从无",
+              "answer_value": 1,
+              "order_id": 1
+            },
+            {
+              "answer_text": "很轻",
+              "answer_value": 2,
+              "order_id": 2
+            },
+            {
+              "answer_text": "中等",
+              "answer_value": 3,
+              "order_id": 3
+            },
+            {
+              "answer_text": "偏重",
+              "answer_value": 4,
+              "order_id": 4
+            },
+            {
+              "answer_text": "严重",
+              "answer_value": 5,
+              "order_id": 5
+            }
+          ]
+        },
+        {
+          "question_order_id": 34,
+          "question_id": "q1034",
+          "question_text": "您的感情容易受到伤害",
+          "question_type": "radio",
+          "answers": [
+            {
+              "answer_text": "从无",
+              "answer_value": 1,
+              "order_id": 1
+            },
+            {
+              "answer_text": "很轻",
+              "answer_value": 2,
+              "order_id": 2
+            },
+            {
+              "answer_text": "中等",
+              "answer_value": 3,
+              "order_id": 3
+            },
+            {
+              "answer_text": "偏重",
+              "answer_value": 4,
+              "order_id": 4
+            },
+            {
+              "answer_text": "严重",
+              "answer_value": 5,
+              "order_id": 5
+            }
+          ]
+        },
+        {
+          "question_order_id": 35,
+          "question_id": "q1035",
+          "question_text": "旁人能知道您的私下想法",
+          "question_type": "radio",
+          "answers": [
+            {
+              "answer_text": "从无",
+              "answer_value": 1,
+              "order_id": 1
+            },
+            {
+              "answer_text": "很轻",
+              "answer_value": 2,
+              "order_id": 2
+            },
+            {
+              "answer_text": "中等",
+              "answer_value": 3,
+              "order_id": 3
+            },
+            {
+              "answer_text": "偏重",
+              "answer_value": 4,
+              "order_id": 4
+            },
+            {
+              "answer_text": "严重",
+              "answer_value": 5,
+              "order_id": 5
+            }
+          ]
+        },
+        {
+          "question_order_id": 36,
+          "question_id": "q1036",
+          "question_text": "感到别人不理解您、不同情您",
+          "question_type": "radio",
+          "answers": [
+            {
+              "answer_text": "从无",
+              "answer_value": 1,
+              "order_id": 1
+            },
+            {
+              "answer_text": "很轻",
+              "answer_value": 2,
+              "order_id": 2
+            },
+            {
+              "answer_text": "中等",
+              "answer_value": 3,
+              "order_id": 3
+            },
+            {
+              "answer_text": "偏重",
+              "answer_value": 4,
+              "order_id": 4
+            },
+            {
+              "answer_text": "严重",
+              "answer_value": 5,
+              "order_id": 5
+            }
+          ]
+        },
+        {
+          "question_order_id": 37,
+          "question_id": "q1037",
+          "question_text": "感到人们对您不友好，不喜欢您",
+          "question_type": "radio",
+          "answers": [
+            {
+              "answer_text": "从无",
+              "answer_value": 1,
+              "order_id": 1
+            },
+            {
+              "answer_text": "很轻",
+              "answer_value": 2,
+              "order_id": 2
+            },
+            {
+              "answer_text": "中等",
+              "answer_value": 3,
+              "order_id": 3
+            },
+            {
+              "answer_text": "偏重",
+              "answer_value": 4,
+              "order_id": 4
+            },
+            {
+              "answer_text": "严重",
+              "answer_value": 5,
+              "order_id": 5
+            }
+          ]
+        },
+        {
+          "question_order_id": 38,
+          "question_id": "q1038",
+          "question_text": "做事必须做得很慢以保证做得正确",
+          "question_type": "radio",
+          "answers": [
+            {
+              "answer_text": "从无",
+              "answer_value": 1,
+              "order_id": 1
+            },
+            {
+              "answer_text": "很轻",
+              "answer_value": 2,
+              "order_id": 2
+            },
+            {
+              "answer_text": "中等",
+              "answer_value": 3,
+              "order_id": 3
+            },
+            {
+              "answer_text": "偏重",
+              "answer_value": 4,
+              "order_id": 4
+            },
+            {
+              "answer_text": "严重",
+              "answer_value": 5,
+              "order_id": 5
+            }
+          ]
+        },
+        {
+          "question_order_id": 39,
+          "question_id": "q1039",
+          "question_text": "心跳得很厉害",
+          "question_type": "radio",
+          "answers": [
+            {
+              "answer_text": "从无",
+              "answer_value": 1,
+              "order_id": 1
+            },
+            {
+              "answer_text": "很轻",
+              "answer_value": 2,
+              "order_id": 2
+            },
+            {
+              "answer_text": "中等",
+              "answer_value": 3,
+              "order_id": 3
+            },
+            {
+              "answer_text": "偏重",
+              "answer_value": 4,
+              "order_id": 4
+            },
+            {
+              "answer_text": "严重",
+              "answer_value": 5,
+              "order_id": 5
+            }
+          ]
+        },
+        {
+          "question_order_id": 40,
+          "question_id": "q1040",
+          "question_text": "恶心或胃部不舒服",
+          "question_type": "radio",
+          "answers": [
+            {
+              "answer_text": "从无",
+              "answer_value": 1,
+              "order_id": 1
+            },
+            {
+              "answer_text": "很轻",
+              "answer_value": 2,
+              "order_id": 2
+            },
+            {
+              "answer_text": "中等",
+              "answer_value": 3,
+              "order_id": 3
+            },
+            {
+              "answer_text": "偏重",
+              "answer_value": 4,
+              "order_id": 4
+            },
+            {
+              "answer_text": "严重",
+              "answer_value": 5,
+              "order_id": 5
+            }
+          ]
+        },
+        {
+          "question_order_id": 41,
+          "question_id": "q1041",
+          "question_text": "感到比不上他人",
+          "question_type": "radio",
+          "answers": [
+            {
+              "answer_text": "从无",
+              "answer_value": 1,
+              "order_id": 1
+            },
+            {
+              "answer_text": "很轻",
+              "answer_value": 2,
+              "order_id": 2
+            },
+            {
+              "answer_text": "中等",
+              "answer_value": 3,
+              "order_id": 3
+            },
+            {
+              "answer_text": "偏重",
+              "answer_value": 4,
+              "order_id": 4
+            },
+            {
+              "answer_text": "严重",
+              "answer_value": 5,
+              "order_id": 5
+            }
+          ]
+        },
+        {
+          "question_order_id": 42,
+          "question_id": "q1042",
+          "question_text": "肌肉酸痛",
+          "question_type": "radio",
+          "answers": [
+            {
+              "answer_text": "从无",
+              "answer_value": 1,
+              "order_id": 1
+            },
+            {
+              "answer_text": "很轻",
+              "answer_value": 2,
+              "order_id": 2
+            },
+            {
+              "answer_text": "中等",
+              "answer_value": 3,
+              "order_id": 3
+            },
+            {
+              "answer_text": "偏重",
+              "answer_value": 4,
+              "order_id": 4
+            },
+            {
+              "answer_text": "严重",
+              "answer_value": 5,
+              "order_id": 5
+            }
+          ]
+        },
+        {
+          "question_order_id": 43,
+          "question_id": "q1043",
+          "question_text": "感到有人在监视您、谈论您",
+          "question_type": "radio",
+          "answers": [
+            {
+              "answer_text": "从无",
+              "answer_value": 1,
+              "order_id": 1
+            },
+            {
+              "answer_text": "很轻",
+              "answer_value": 2,
+              "order_id": 2
+            },
+            {
+              "answer_text": "中等",
+              "answer_value": 3,
+              "order_id": 3
+            },
+            {
+              "answer_text": "偏重",
+              "answer_value": 4,
+              "order_id": 4
+            },
+            {
+              "answer_text": "严重",
+              "answer_value": 5,
+              "order_id": 5
+            }
+          ]
+        },
+        {
+          "question_order_id": 44,
+          "question_id": "q1044",
+          "question_text": "难以入睡",
+          "question_type": "radio",
+          "answers": [
+            {
+              "answer_text": "从无",
+              "answer_value": 1,
+              "order_id": 1
+            },
+            {
+              "answer_text": "很轻",
+              "answer_value": 2,
+              "order_id": 2
+            },
+            {
+              "answer_text": "中等",
+              "answer_value": 3,
+              "order_id": 3
+            },
+            {
+              "answer_text": "偏重",
+              "answer_value": 4,
+              "order_id": 4
+            },
+            {
+              "answer_text": "严重",
+              "answer_value": 5,
+              "order_id": 5
+            }
+          ]
+        },
+        {
+          "question_order_id": 45,
+          "question_id": "q1045",
+          "question_text": "做事必须反复检查",
+          "question_type": "radio",
+          "answers": [
+            {
+              "answer_text": "从无",
+              "answer_value": 1,
+              "order_id": 1
+            },
+            {
+              "answer_text": "很轻",
+              "answer_value": 2,
+              "order_id": 2
+            },
+            {
+              "answer_text": "中等",
+              "answer_value": 3,
+              "order_id": 3
+            },
+            {
+              "answer_text": "偏重",
+              "answer_value": 4,
+              "order_id": 4
+            },
+            {
+              "answer_text": "严重",
+              "answer_value": 5,
+              "order_id": 5
+            }
+          ]
+        },
+        {
+          "question_order_id": 46,
+          "question_id": "q1046",
+          "question_text": "难以作出决定",
+          "question_type": "radio",
+          "answers": [
+            {
+              "answer_text": "从无",
+              "answer_value": 1,
+              "order_id": 1
+            },
+            {
+              "answer_text": "很轻",
+              "answer_value": 2,
+              "order_id": 2
+            },
+            {
+              "answer_text": "中等",
+              "answer_value": 3,
+              "order_id": 3
+            },
+            {
+              "answer_text": "偏重",
+              "answer_value": 4,
+              "order_id": 4
+            },
+            {
+              "answer_text": "严重",
+              "answer_value": 5,
+              "order_id": 5
+            }
+          ]
+        },
+        {
+          "question_order_id": 47,
+          "question_id": "q1047",
+          "question_text": "怕乘电车、公共汽车、地铁或火车",
+          "question_type": "radio",
+          "answers": [
+            {
+              "answer_text": "从无",
+              "answer_value": 1,
+              "order_id": 1
+            },
+            {
+              "answer_text": "很轻",
+              "answer_value": 2,
+              "order_id": 2
+            },
+            {
+              "answer_text": "中等",
+              "answer_value": 3,
+              "order_id": 3
+            },
+            {
+              "answer_text": "偏重",
+              "answer_value": 4,
+              "order_id": 4
+            },
+            {
+              "answer_text": "严重",
+              "answer_value": 5,
+              "order_id": 5
+            }
+          ]
+        },
+        {
+          "question_order_id": 48,
+          "question_id": "q1048",
+          "question_text": "呼吸有困难",
+          "question_type": "radio",
+          "answers": [
+            {
+              "answer_text": "从无",
+              "answer_value": 1,
+              "order_id": 1
+            },
+            {
+              "answer_text": "很轻",
+              "answer_value": 2,
+              "order_id": 2
+            },
+            {
+              "answer_text": "中等",
+              "answer_value": 3,
+              "order_id": 3
+            },
+            {
+              "answer_text": "偏重",
+              "answer_value": 4,
+              "order_id": 4
+            },
+            {
+              "answer_text": "严重",
+              "answer_value": 5,
+              "order_id": 5
+            }
+          ]
+        },
+        {
+          "question_order_id": 49,
+          "question_id": "q1049",
+          "question_text": "一阵阵发冷或发热",
+          "question_type": "radio",
+          "answers": [
+            {
+              "answer_text": "从无",
+              "answer_value": 1,
+              "order_id": 1
+            },
+            {
+              "answer_text": "很轻",
+              "answer_value": 2,
+              "order_id": 2
+            },
+            {
+              "answer_text": "中等",
+              "answer_value": 3,
+              "order_id": 3
+            },
+            {
+              "answer_text": "偏重",
+              "answer_value": 4,
+              "order_id": 4
+            },
+            {
+              "answer_text": "严重",
+              "answer_value": 5,
+              "order_id": 5
+            }
+          ]
+        },
+        {
+          "question_order_id": 50,
+          "question_id": "q1050",
+          "question_text": "因为感到害怕而避开某些东西、场合或活动",
+          "question_type": "radio",
+          "answers": [
+            {
+              "answer_text": "从无",
+              "answer_value": 1,
+              "order_id": 1
+            },
+            {
+              "answer_text": "很轻",
+              "answer_value": 2,
+              "order_id": 2
+            },
+            {
+              "answer_text": "中等",
+              "answer_value": 3,
+              "order_id": 3
+            },
+            {
+              "answer_text": "偏重",
+              "answer_value": 4,
+              "order_id": 4
+            },
+            {
+              "answer_text": "严重",
+              "answer_value": 5,
+              "order_id": 5
+            }
+          ]
+        },
+        {
+          "question_order_id": 51,
+          "question_id": "q1051",
+          "question_text": "脑子变空了",
+          "question_type": "radio",
+          "answers": [
+            {
+              "answer_text": "从无",
+              "answer_value": 1,
+              "order_id": 1
+            },
+            {
+              "answer_text": "很轻",
+              "answer_value": 2,
+              "order_id": 2
+            },
+            {
+              "answer_text": "中等",
+              "answer_value": 3,
+              "order_id": 3
+            },
+            {
+              "answer_text": "偏重",
+              "answer_value": 4,
+              "order_id": 4
+            },
+            {
+              "answer_text": "严重",
+              "answer_value": 5,
+              "order_id": 5
+            }
+          ]
+        },
+        {
+          "question_order_id": 52,
+          "question_id": "q1052",
+          "question_text": "身体发麻或刺痛",
+          "question_type": "radio",
+          "answers": [
+            {
+              "answer_text": "从无",
+              "answer_value": 1,
+              "order_id": 1
+            },
+            {
+              "answer_text": "很轻",
+              "answer_value": 2,
+              "order_id": 2
+            },
+            {
+              "answer_text": "中等",
+              "answer_value": 3,
+              "order_id": 3
+            },
+            {
+              "answer_text": "偏重",
+              "answer_value": 4,
+              "order_id": 4
+            },
+            {
+              "answer_text": "严重",
+              "answer_value": 5,
+              "order_id": 5
+            }
+          ]
+        },
+        {
+          "question_order_id": 53,
+          "question_id": "q1053",
+          "question_text": "喉咙有梗塞感",
+          "question_type": "radio",
+          "answers": [
+            {
+              "answer_text": "从无",
+              "answer_value": 1,
+              "order_id": 1
+            },
+            {
+              "answer_text": "很轻",
+              "answer_value": 2,
+              "order_id": 2
+            },
+            {
+              "answer_text": "中等",
+              "answer_value": 3,
+              "order_id": 3
+            },
+            {
+              "answer_text": "偏重",
+              "answer_value": 4,
+              "order_id": 4
+            },
+            {
+              "answer_text": "严重",
+              "answer_value": 5,
+              "order_id": 5
+            }
+          ]
+        },
+        {
+          "question_order_id": 54,
+          "question_id": "q1054",
+          "question_text": "感到前途没有希望",
+          "question_type": "radio",
+          "answers": [
+            {
+              "answer_text": "从无",
+              "answer_value": 1,
+              "order_id": 1
+            },
+            {
+              "answer_text": "很轻",
+              "answer_value": 2,
+              "order_id": 2
+            },
+            {
+              "answer_text": "中等",
+              "answer_value": 3,
+              "order_id": 3
+            },
+            {
+              "answer_text": "偏重",
+              "answer_value": 4,
+              "order_id": 4
+            },
+            {
+              "answer_text": "严重",
+              "answer_value": 5,
+              "order_id": 5
+            }
+          ]
+        },
+        {
+          "question_order_id": 55,
+          "question_id": "q1055",
+          "question_text": "不能集中注意力",
+          "question_type": "radio",
+          "answers": [
+            {
+              "answer_text": "从无",
+              "answer_value": 1,
+              "order_id": 1
+            },
+            {
+              "answer_text": "很轻",
+              "answer_value": 2,
+              "order_id": 2
+            },
+            {
+              "answer_text": "中等",
+              "answer_value": 3,
+              "order_id": 3
+            },
+            {
+              "answer_text": "偏重",
+              "answer_value": 4,
+              "order_id": 4
+            },
+            {
+              "answer_text": "严重",
+              "answer_value": 5,
+              "order_id": 5
+            }
+          ]
+        },
+        {
+          "question_order_id": 56,
+          "question_id": "q1056",
+          "question_text": "感到身体的某一部分软弱无力",
+          "question_type": "radio",
+          "answers": [
+            {
+              "answer_text": "从无",
+              "answer_value": 1,
+              "order_id": 1
+            },
+            {
+              "answer_text": "很轻",
+              "answer_value": 2,
+              "order_id": 2
+            },
+            {
+              "answer_text": "中等",
+              "answer_value": 3,
+              "order_id": 3
+            },
+            {
+              "answer_text": "偏重",
+              "answer_value": 4,
+              "order_id": 4
+            },
+            {
+              "answer_text": "严重",
+              "answer_value": 5,
+              "order_id": 5
+            }
+          ]
+        },
+        {
+          "question_order_id": 57,
+          "question_id": "q1057",
+          "question_text": "感到紧张或容易紧张",
+          "question_type": "radio",
+          "answers": [
+            {
+              "answer_text": "从无",
+              "answer_value": 1,
+              "order_id": 1
+            },
+            {
+              "answer_text": "很轻",
+              "answer_value": 2,
+              "order_id": 2
+            },
+            {
+              "answer_text": "中等",
+              "answer_value": 3,
+              "order_id": 3
+            },
+            {
+              "answer_text": "偏重",
+              "answer_value": 4,
+              "order_id": 4
+            },
+            {
+              "answer_text": "严重",
+              "answer_value": 5,
+              "order_id": 5
+            }
+          ]
+        },
+        {
+          "question_order_id": 58,
+          "question_id": "q1058",
+          "question_text": "感到手或脚发重",
+          "question_type": "radio",
+          "answers": [
+            {
+              "answer_text": "从无",
+              "answer_value": 1,
+              "order_id": 1
+            },
+            {
+              "answer_text": "很轻",
+              "answer_value": 2,
+              "order_id": 2
+            },
+            {
+              "answer_text": "中等",
+              "answer_value": 3,
+              "order_id": 3
+            },
+            {
+              "answer_text": "偏重",
+              "answer_value": 4,
+              "order_id": 4
+            },
+            {
+              "answer_text": "严重",
+              "answer_value": 5,
+              "order_id": 5
+            }
+          ]
+        },
+        {
+          "question_order_id": 59,
+          "question_id": "q1059",
+          "question_text": "想到死亡的事",
+          "question_type": "radio",
+          "answers": [
+            {
+              "answer_text": "从无",
+              "answer_value": 1,
+              "order_id": 1
+            },
+            {
+              "answer_text": "很轻",
+              "answer_value": 2,
+              "order_id": 2
+            },
+            {
+              "answer_text": "中等",
+              "answer_value": 3,
+              "order_id": 3
+            },
+            {
+              "answer_text": "偏重",
+              "answer_value": 4,
+              "order_id": 4
+            },
+            {
+              "answer_text": "严重",
+              "answer_value": 5,
+              "order_id": 5
+            }
+          ]
+        },
+        {
+          "question_order_id": 60,
+          "question_id": "q1060",
+          "question_text": "吃得太多",
+          "question_type": "radio",
+          "answers": [
+            {
+              "answer_text": "从无",
+              "answer_value": 1,
+              "order_id": 1
+            },
+            {
+              "answer_text": "很轻",
+              "answer_value": 2,
+              "order_id": 2
+            },
+            {
+              "answer_text": "中等",
+              "answer_value": 3,
+              "order_id": 3
+            },
+            {
+              "answer_text": "偏重",
+              "answer_value": 4,
+              "order_id": 4
+            },
+            {
+              "answer_text": "严重",
+              "answer_value": 5,
+              "order_id": 5
+            }
+          ]
+        },
+        {
+          "question_order_id": 61,
+          "question_id": "q1061",
+          "question_text": "当别人看着您或谈论您时感到不自在",
+          "question_type": "radio",
+          "answers": [
+            {
+              "answer_text": "从无",
+              "answer_value": 1,
+              "order_id": 1
+            },
+            {
+              "answer_text": "很轻",
+              "answer_value": 2,
+              "order_id": 2
+            },
+            {
+              "answer_text": "中等",
+              "answer_value": 3,
+              "order_id": 3
+            },
+            {
+              "answer_text": "偏重",
+              "answer_value": 4,
+              "order_id": 4
+            },
+            {
+              "answer_text": "严重",
+              "answer_value": 5,
+              "order_id": 5
+            }
+          ]
+        },
+        {
+          "question_order_id": 62,
+          "question_id": "q1062",
+          "question_text": "有一些不属于您自己的想法",
+          "question_type": "radio",
+          "answers": [
+            {
+              "answer_text": "从无",
+              "answer_value": 1,
+              "order_id": 1
+            },
+            {
+              "answer_text": "很轻",
+              "answer_value": 2,
+              "order_id": 2
+            },
+            {
+              "answer_text": "中等",
+              "answer_value": 3,
+              "order_id": 3
+            },
+            {
+              "answer_text": "偏重",
+              "answer_value": 4,
+              "order_id": 4
+            },
+            {
+              "answer_text": "严重",
+              "answer_value": 5,
+              "order_id": 5
+            }
+          ]
+        },
+        {
+          "question_order_id": 63,
+          "question_id": "q1063",
+          "question_text": "有想打人或伤害他人的冲动",
+          "question_type": "radio",
+          "answers": [
+            {
+              "answer_text": "从无",
+              "answer_value": 1,
+              "order_id": 1
+            },
+            {
+              "answer_text": "很轻",
+              "answer_value": 2,
+              "order_id": 2
+            },
+            {
+              "answer_text": "中等",
+              "answer_value": 3,
+              "order_id": 3
+            },
+            {
+              "answer_text": "偏重",
+              "answer_value": 4,
+              "order_id": 4
+            },
+            {
+              "answer_text": "严重",
+              "answer_value": 5,
+              "order_id": 5
+            }
+          ]
+        },
+        {
+          "question_order_id": 64,
+          "question_id": "q1064",
+          "question_text": "醒得太早",
+          "question_type": "radio",
+          "answers": [
+            {
+              "answer_text": "从无",
+              "answer_value": 1,
+              "order_id": 1
+            },
+            {
+              "answer_text": "很轻",
+              "answer_value": 2,
+              "order_id": 2
+            },
+            {
+              "answer_text": "中等",
+              "answer_value": 3,
+              "order_id": 3
+            },
+            {
+              "answer_text": "偏重",
+              "answer_value": 4,
+              "order_id": 4
+            },
+            {
+              "answer_text": "严重",
+              "answer_value": 5,
+              "order_id": 5
+            }
+          ]
+        },
+        {
+          "question_order_id": 65,
+          "question_id": "q1065",
+          "question_text": "必须反复洗手、点数",
+          "question_type": "radio",
+          "answers": [
+            {
+              "answer_text": "从无",
+              "answer_value": 1,
+              "order_id": 1
+            },
+            {
+              "answer_text": "很轻",
+              "answer_value": 2,
+              "order_id": 2
+            },
+            {
+              "answer_text": "中等",
+              "answer_value": 3,
+              "order_id": 3
+            },
+            {
+              "answer_text": "偏重",
+              "answer_value": 4,
+              "order_id": 4
+            },
+            {
+              "answer_text": "严重",
+              "answer_value": 5,
+              "order_id": 5
+            }
+          ]
+        },
+        {
+          "question_order_id": 66,
+          "question_id": "q1066",
+          "question_text": "睡得不稳、不深",
+          "question_type": "radio",
+          "answers": [
+            {
+              "answer_text": "从无",
+              "answer_value": 1,
+              "order_id": 1
+            },
+            {
+              "answer_text": "很轻",
+              "answer_value": 2,
+              "order_id": 2
+            },
+            {
+              "answer_text": "中等",
+              "answer_value": 3,
+              "order_id": 3
+            },
+            {
+              "answer_text": "偏重",
+              "answer_value": 4,
+              "order_id": 4
+            },
+            {
+              "answer_text": "严重",
+              "answer_value": 5,
+              "order_id": 5
+            }
+          ]
+        },
+        {
+          "question_order_id": 67,
+          "question_id": "q1067",
+          "question_text": "有想摔坏或破坏东西的想法",
+          "question_type": "radio",
+          "answers": [
+            {
+              "answer_text": "从无",
+              "answer_value": 1,
+              "order_id": 1
+            },
+            {
+              "answer_text": "很轻",
+              "answer_value": 2,
+              "order_id": 2
+            },
+            {
+              "answer_text": "中等",
+              "answer_value": 3,
+              "order_id": 3
+            },
+            {
+              "answer_text": "偏重",
+              "answer_value": 4,
+              "order_id": 4
+            },
+            {
+              "answer_text": "严重",
+              "answer_value": 5,
+              "order_id": 5
+            }
+          ]
+        },
+        {
+          "question_order_id": 68,
+          "question_id": "q1068",
+          "question_text": "有一些别人没有的想法",
+          "question_type": "radio",
+          "answers": [
+            {
+              "answer_text": "从无",
+              "answer_value": 1,
+              "order_id": 1
+            },
+            {
+              "answer_text": "很轻",
+              "answer_value": 2,
+              "order_id": 2
+            },
+            {
+              "answer_text": "中等",
+              "answer_value": 3,
+              "order_id": 3
+            },
+            {
+              "answer_text": "偏重",
+              "answer_value": 4,
+              "order_id": 4
+            },
+            {
+              "answer_text": "严重",
+              "answer_value": 5,
+              "order_id": 5
+            }
+          ]
+        },
+        {
+          "question_order_id": 69,
+          "question_id": "q1069",
+          "question_text": "感到对别人神经过敏",
+          "question_type": "radio",
+          "answers": [
+            {
+              "answer_text": "从无",
+              "answer_value": 1,
+              "order_id": 1
+            },
+            {
+              "answer_text": "很轻",
+              "answer_value": 2,
+              "order_id": 2
+            },
+            {
+              "answer_text": "中等",
+              "answer_value": 3,
+              "order_id": 3
+            },
+            {
+              "answer_text": "偏重",
+              "answer_value": 4,
+              "order_id": 4
+            },
+            {
+              "answer_text": "严重",
+              "answer_value": 5,
+              "order_id": 5
+            }
+          ]
+        },
+        {
+          "question_order_id": 70,
+          "question_id": "q1070",
+          "question_text": "在商店或电影院等人多的地方感到不自在",
+          "question_type": "radio",
+          "answers": [
+            {
+              "answer_text": "从无",
+              "answer_value": 1,
+              "order_id": 1
+            },
+            {
+              "answer_text": "很轻",
+              "answer_value": 2,
+              "order_id": 2
+            },
+            {
+              "answer_text": "中等",
+              "answer_value": 3,
+              "order_id": 3
+            },
+            {
+              "answer_text": "偏重",
+              "answer_value": 4,
+              "order_id": 4
+            },
+            {
+              "answer_text": "严重",
+              "answer_value": 5,
+              "order_id": 5
+            }
+          ]
+        },
+        {
+          "question_order_id": 71,
+          "question_id": "q1071",
+          "question_text": "感到任何事情都很困难",
+          "question_type": "radio",
+          "answers": [
+            {
+              "answer_text": "从无",
+              "answer_value": 1,
+              "order_id": 1
+            },
+            {
+              "answer_text": "很轻",
+              "answer_value": 2,
+              "order_id": 2
+            },
+            {
+              "answer_text": "中等",
+              "answer_value": 3,
+              "order_id": 3
+            },
+            {
+              "answer_text": "偏重",
+              "answer_value": 4,
+              "order_id": 4
+            },
+            {
+              "answer_text": "严重",
+              "answer_value": 5,
+              "order_id": 5
+            }
+          ]
+        },
+        {
+          "question_order_id": 72,
+          "question_id": "q1072",
+          "question_text": "一阵阵恐惧或惊恐",
+          "question_type": "radio",
+          "answers": [
+            {
+              "answer_text": "从无",
+              "answer_value": 1,
+              "order_id": 1
+            },
+            {
+              "answer_text": "很轻",
+              "answer_value": 2,
+              "order_id": 2
+            },
+            {
+              "answer_text": "中等",
+              "answer_value": 3,
+              "order_id": 3
+            },
+            {
+              "answer_text": "偏重",
+              "answer_value": 4,
+              "order_id": 4
+            },
+            {
+              "answer_text": "严重",
+              "answer_value": 5,
+              "order_id": 5
+            }
+          ]
+        },
+        {
+          "question_order_id": 73,
+          "question_id": "q1073",
+          "question_text": "感到公共场所吃东西很不舒服",
+          "question_type": "radio",
+          "answers": [
+            {
+              "answer_text": "从无",
+              "answer_value": 1,
+              "order_id": 1
+            },
+            {
+              "answer_text": "很轻",
+              "answer_value": 2,
+              "order_id": 2
+            },
+            {
+              "answer_text": "中等",
+              "answer_value": 3,
+              "order_id": 3
+            },
+            {
+              "answer_text": "偏重",
+              "answer_value": 4,
+              "order_id": 4
+            },
+            {
+              "answer_text": "严重",
+              "answer_value": 5,
+              "order_id": 5
+            }
+          ]
+        },
+        {
+          "question_order_id": 74,
+          "question_id": "q1074",
+          "question_text": "经常与人争论",
+          "question_type": "radio",
+          "answers": [
+            {
+              "answer_text": "从无",
+              "answer_value": 1,
+              "order_id": 1
+            },
+            {
+              "answer_text": "很轻",
+              "answer_value": 2,
+              "order_id": 2
+            },
+            {
+              "answer_text": "中等",
+              "answer_value": 3,
+              "order_id": 3
+            },
+            {
+              "answer_text": "偏重",
+              "answer_value": 4,
+              "order_id": 4
+            },
+            {
+              "answer_text": "严重",
+              "answer_value": 5,
+              "order_id": 5
+            }
+          ]
+        },
+        {
+          "question_order_id": 75,
+          "question_id": "q1075",
+          "question_text": "单独一人时神经很紧张",
+          "question_type": "radio",
+          "answers": [
+            {
+              "answer_text": "从无",
+              "answer_value": 1,
+              "order_id": 1
+            },
+            {
+              "answer_text": "很轻",
+              "answer_value": 2,
+              "order_id": 2
+            },
+            {
+              "answer_text": "中等",
+              "answer_value": 3,
+              "order_id": 3
+            },
+            {
+              "answer_text": "偏重",
+              "answer_value": 4,
+              "order_id": 4
+            },
+            {
+              "answer_text": "严重",
+              "answer_value": 5,
+              "order_id": 5
+            }
+          ]
+        },
+        {
+          "question_order_id": 76,
+          "question_id": "q1076",
+          "question_text": "别人对您的成绩没有做出恰当的评价",
+          "question_type": "radio",
+          "answers": [
+            {
+              "answer_text": "从无",
+              "answer_value": 1,
+              "order_id": 1
+            },
+            {
+              "answer_text": "很轻",
+              "answer_value": 2,
+              "order_id": 2
+            },
+            {
+              "answer_text": "中等",
+              "answer_value": 3,
+              "order_id": 3
+            },
+            {
+              "answer_text": "偏重",
+              "answer_value": 4,
+              "order_id": 4
+            },
+            {
+              "answer_text": "严重",
+              "answer_value": 5,
+              "order_id": 5
+            }
+          ]
+        },
+        {
+          "question_order_id": 77,
+          "question_id": "q1077",
+          "question_text": "即使和别人在一起也感到孤单",
+          "question_type": "radio",
+          "answers": [
+            {
+              "answer_text": "从无",
+              "answer_value": 1,
+              "order_id": 1
+            },
+            {
+              "answer_text": "很轻",
+              "answer_value": 2,
+              "order_id": 2
+            },
+            {
+              "answer_text": "中等",
+              "answer_value": 3,
+              "order_id": 3
+            },
+            {
+              "answer_text": "偏重",
+              "answer_value": 4,
+              "order_id": 4
+            },
+            {
+              "answer_text": "严重",
+              "answer_value": 5,
+              "order_id": 5
+            }
+          ]
+        },
+        {
+          "question_order_id": 78,
+          "question_id": "q1078",
+          "question_text": "感到坐立不安心神不定",
+          "question_type": "radio",
+          "answers": [
+            {
+              "answer_text": "从无",
+              "answer_value": 1,
+              "order_id": 1
+            },
+            {
+              "answer_text": "很轻",
+              "answer_value": 2,
+              "order_id": 2
+            },
+            {
+              "answer_text": "中等",
+              "answer_value": 3,
+              "order_id": 3
+            },
+            {
+              "answer_text": "偏重",
+              "answer_value": 4,
+              "order_id": 4
+            },
+            {
+              "answer_text": "严重",
+              "answer_value": 5,
+              "order_id": 5
+            }
+          ]
+        },
+        {
+          "question_order_id": 79,
+          "question_id": "q1079",
+          "question_text": "感到自己没有什么价值",
+          "question_type": "radio",
+          "answers": [
+            {
+              "answer_text": "从无",
+              "answer_value": 1,
+              "order_id": 1
+            },
+            {
+              "answer_text": "很轻",
+              "answer_value": 2,
+              "order_id": 2
+            },
+            {
+              "answer_text": "中等",
+              "answer_value": 3,
+              "order_id": 3
+            },
+            {
+              "answer_text": "偏重",
+              "answer_value": 4,
+              "order_id": 4
+            },
+            {
+              "answer_text": "严重",
+              "answer_value": 5,
+              "order_id": 5
+            }
+          ]
+        },
+        {
+          "question_order_id": 80,
+          "question_id": "q1080",
+          "question_text": "感到熟悉的东西变成陌生或不像是真的",
+          "question_type": "radio",
+          "answers": [
+            {
+              "answer_text": "从无",
+              "answer_value": 1,
+              "order_id": 1
+            },
+            {
+              "answer_text": "很轻",
+              "answer_value": 2,
+              "order_id": 2
+            },
+            {
+              "answer_text": "中等",
+              "answer_value": 3,
+              "order_id": 3
+            },
+            {
+              "answer_text": "偏重",
+              "answer_value": 4,
+              "order_id": 4
+            },
+            {
+              "answer_text": "严重",
+              "answer_value": 5,
+              "order_id": 5
+            }
+          ]
+        },
+        {
+          "question_order_id": 81,
+          "question_id": "q1081",
+          "question_text": "大叫或摔东西",
+          "question_type": "radio",
+          "answers": [
+            {
+              "answer_text": "从无",
+              "answer_value": 1,
+              "order_id": 1
+            },
+            {
+              "answer_text": "很轻",
+              "answer_value": 2,
+              "order_id": 2
+            },
+            {
+              "answer_text": "中等",
+              "answer_value": 3,
+              "order_id": 3
+            },
+            {
+              "answer_text": "偏重",
+              "answer_value": 4,
+              "order_id": 4
+            },
+            {
+              "answer_text": "严重",
+              "answer_value": 5,
+              "order_id": 5
+            }
+          ]
+        },
+        {
+          "question_order_id": 82,
+          "question_id": "q1082",
+          "question_text": "害怕会在公共场合晕倒",
+          "question_type": "radio",
+          "answers": [
+            {
+              "answer_text": "从无",
+              "answer_value": 1,
+              "order_id": 1
+            },
+            {
+              "answer_text": "很轻",
+              "answer_value": 2,
+              "order_id": 2
+            },
+            {
+              "answer_text": "中等",
+              "answer_value": 3,
+              "order_id": 3
+            },
+            {
+              "answer_text": "偏重",
+              "answer_value": 4,
+              "order_id": 4
+            },
+            {
+              "answer_text": "严重",
+              "answer_value": 5,
+              "order_id": 5
+            }
+          ]
+        },
+        {
+          "question_order_id": 83,
+          "question_id": "q1083",
+          "question_text": "感到别人想占您的便宜",
+          "question_type": "radio",
+          "answers": [
+            {
+              "answer_text": "从无",
+              "answer_value": 1,
+              "order_id": 1
+            },
+            {
+              "answer_text": "很轻",
+              "answer_value": 2,
+              "order_id": 2
+            },
+            {
+              "answer_text": "中等",
+              "answer_value": 3,
+              "order_id": 3
+            },
+            {
+              "answer_text": "偏重",
+              "answer_value": 4,
+              "order_id": 4
+            },
+            {
+              "answer_text": "严重",
+              "answer_value": 5,
+              "order_id": 5
+            }
+          ]
+        },
+        {
+          "question_order_id": 84,
+          "question_id": "q1084",
+          "question_text": "为一些有关性的想法而很苦恼",
+          "question_type": "radio",
+          "answers": [
+            {
+              "answer_text": "从无",
+              "answer_value": 1,
+              "order_id": 1
+            },
+            {
+              "answer_text": "很轻",
+              "answer_value": 2,
+              "order_id": 2
+            },
+            {
+              "answer_text": "中等",
+              "answer_value": 3,
+              "order_id": 3
+            },
+            {
+              "answer_text": "偏重",
+              "answer_value": 4,
+              "order_id": 4
+            },
+            {
+              "answer_text": "严重",
+              "answer_value": 5,
+              "order_id": 5
+            }
+          ]
+        },
+        {
+          "question_order_id": 85,
+          "question_id": "q1085",
+          "question_text": "您认为应该因为自己的过错而受到惩罚",
+          "question_type": "radio",
+          "answers": [
+            {
+              "answer_text": "从无",
+              "answer_value": 1,
+              "order_id": 1
+            },
+            {
+              "answer_text": "很轻",
+              "answer_value": 2,
+              "order_id": 2
+            },
+            {
+              "answer_text": "中等",
+              "answer_value": 3,
+              "order_id": 3
+            },
+            {
+              "answer_text": "偏重",
+              "answer_value": 4,
+              "order_id": 4
+            },
+            {
+              "answer_text": "严重",
+              "answer_value": 5,
+              "order_id": 5
+            }
+          ]
+        },
+        {
+          "question_order_id": 86,
+          "question_id": "q1086",
+          "question_text": "感到要很快把事情做完",
+          "question_type": "radio",
+          "answers": [
+            {
+              "answer_text": "从无",
+              "answer_value": 1,
+              "order_id": 1
+            },
+            {
+              "answer_text": "很轻",
+              "answer_value": 2,
+              "order_id": 2
+            },
+            {
+              "answer_text": "中等",
+              "answer_value": 3,
+              "order_id": 3
+            },
+            {
+              "answer_text": "偏重",
+              "answer_value": 4,
+              "order_id": 4
+            },
+            {
+              "answer_text": "严重",
+              "answer_value": 5,
+              "order_id": 5
+            }
+          ]
+        },
+        {
+          "question_order_id": 87,
+          "question_id": "q1087",
+          "question_text": "感到自己的身体有严重问题",
+          "question_type": "radio",
+          "answers": [
+            {
+              "answer_text": "从无",
+              "answer_value": 1,
+              "order_id": 1
+            },
+            {
+              "answer_text": "很轻",
+              "answer_value": 2,
+              "order_id": 2
+            },
+            {
+              "answer_text": "中等",
+              "answer_value": 3,
+              "order_id": 3
+            },
+            {
+              "answer_text": "偏重",
+              "answer_value": 4,
+              "order_id": 4
+            },
+            {
+              "answer_text": "严重",
+              "answer_value": 5,
+              "order_id": 5
+            }
+          ]
+        },
+        {
+          "question_order_id": 88,
+          "question_id": "q1088",
+          "question_text": "从未感到和其他人很亲近",
+          "question_type": "radio",
+          "answers": [
+            {
+              "answer_text": "从无",
+              "answer_value": 1,
+              "order_id": 1
+            },
+            {
+              "answer_text": "很轻",
+              "answer_value": 2,
+              "order_id": 2
+            },
+            {
+              "answer_text": "中等",
+              "answer_value": 3,
+              "order_id": 3
+            },
+            {
+              "answer_text": "偏重",
+              "answer_value": 4,
+              "order_id": 4
+            },
+            {
+              "answer_text": "严重",
+              "answer_value": 5,
+              "order_id": 5
+            }
+          ]
+        },
+        {
+          "question_order_id": 89,
+          "question_id": "q1089",
+          "question_text": "感到自己有罪",
+          "question_type": "radio",
+          "answers": [
+            {
+              "answer_text": "从无",
+              "answer_value": 1,
+              "order_id": 1
+            },
+            {
+              "answer_text": "很轻",
+              "answer_value": 2,
+              "order_id": 2
+            },
+            {
+              "answer_text": "中等",
+              "answer_value": 3,
+              "order_id": 3
+            },
+            {
+              "answer_text": "偏重",
+              "answer_value": 4,
+              "order_id": 4
+            },
+            {
+              "answer_text": "严重",
+              "answer_value": 5,
+              "order_id": 5
+            }
+          ]
+        },
+        {
+          "question_order_id": 90,
+          "question_id": "q1090",
+          "question_text": "感到自己的脑子有毛病",
+          "question_type": "radio",
+          "answers": [
+            {
+              "answer_text": "从无",
+              "answer_value": 1,
+              "order_id": 1
+            },
+            {
+              "answer_text": "很轻",
+              "answer_value": 2,
+              "order_id": 2
+            },
+            {
+              "answer_text": "中等",
+              "answer_value": 3,
+              "order_id": 3
+            },
+            {
+              "answer_text": "偏重",
+              "answer_value": 4,
+              "order_id": 4
+            },
+            {
+              "answer_text": "严重",
+              "answer_value": 5,
+              "order_id": 5
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "texts_audio": [
+    {
+      "id": 0,
+      "qestion_type": "texts_audio",
+      "text_content": "我是你爸爸",
+      "emotion_type": "正面"
+    },
+    {
+      "id": 19,
+      "qestion_type": "texts_audio",
+      "text_content": "我爱中国",
+      "emotion_type": "正面"
+    },
+    {
+      "id": 20,
+      "qestion_type": "texts_audio",
+      "text_content": "我是个好人",
+      "emotion_type": "正面"
+    },
+    {
+      "id": 26,
+      "qestion_type": "texts_audio",
+      "text_content": "每一件事都要用多方面的角度来看它",
+      "emotion_type": "正面"
+    },
+    {
+      "id": 27,
+      "qestion_type": "texts_audio",
+      "text_content": "一个人有生就有死，但只要你活着，就要以最好的方式活下去",
+      "emotion_type": "负面"
+    }
+  ],
+  "texts_video": [
+    {
+      "id": 28,
+      "qestion_type": "texts_video",
+      "text_content": "每一件事都要用多方面的角度来看它",
+      "emotion_type": "正面"
+    },
+    {
+      "id": 29,
+      "qestion_type": "texts_video",
+      "text_content": "一个人有生就有死，但只要你活着，就要以最好的方式活下去",
+      "emotion_type": "负面"
+    }
+  ],
+  "questions_audio": [
+    {
+      "id": 21,
+      "qestion_type": "questions_audio",
+      "text_content": "请问你最近睡眠怎么样？",
+      "emotion_type": "正面"
+    },
+    {
+      "id": 31,
+      "qestion_type": "questions_audio",
+      "text_content": "请问你经常饿吗",
+      "emotion_type": "负面"
+    }
+  ],
+  "questions_video": [
+    {
+      "id": 22,
+      "qestion_type": "questions_video",
+      "text_content": "请问你最近睡眠怎么样？",
+      "emotion_type": "正面"
+    },
+    {
+      "id": 30,
+      "qestion_type": "questions_video",
+      "text_content": "请问你经常饿吗",
+      "emotion_type": "负面"
+    }
+  ]
+}
