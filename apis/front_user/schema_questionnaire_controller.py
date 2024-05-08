@@ -48,5 +48,5 @@ async def download_template(db: Session = Depends(get_db)):
         filepath = f"{Model_questionnaire_list.questionnaire_path}{Model_questionnaire_list.questionnaire_file_name}"
         return FileResponse(filepath, media_type="application/octet-stream", filename="模板文件.xlsx")
     else:
-        filepath = f"static/10心理健康.xlsx"
-        return FileResponse(filepath, media_type="application/octet-stream", filename="模板文件-10心理健康.xlsx")
+        filepath = f"static/模板文件.xlsx"
+        return FileResponse(filepath, media_type="application/octet-stream", filename="模板文件.xlsx")
